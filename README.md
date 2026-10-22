@@ -30,7 +30,7 @@ An automated, AI-powered Streamlit web application built to evaluate online clas
 ### 1. Clone or Download the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/sankeeth-kurian/humaniti-class-evaluator.git
 cd humaniti-class-evaluator
 ```
 
